@@ -1,0 +1,230 @@
+
+.open-sans{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}  
+  .name{
+    color: #FD6E0A;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+   
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: #181818;
+    
+
+}
+nav ul li{
+margin-right: 51px;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   ;
+}
+.button-color{
+    background-color: #FD6E0A;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 18px 35px;
+}
+.hadyimg{
+    background-image:url('../portfolio-resources/images/developer.png'), url('../portfolio-resources/images/header_bg.png');
+    background-position: top left,bottom right;
+    background-repeat: no-repeat;
+    justify-content: space-between;
+    display: flex;
+    background-color: #FFF8F3;
+}
+.color{
+    color: #FD6E0A;
+
+    border: 5px #FD6E0A;
+}
+.marydescription{
+    margin-left: 200px;
+}
+.para{
+    font-size: 18px;
+    font-weight: 400;
+}
+.blod{
+    font-weight: 800;
+    font: size 30px; 
+
+}
+.Mary{
+    font-weight: 800;
+    font-size: 50px;
+    margin-left: 200px;
+}
+    
+    
+.faria {
+    display: flex;
+    justify-content: space-around;
+}
+.abouthardy {
+    text-align: center;
+}
+.about-me1 {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: center;
+}
+.aboutme {
+    background-color:#FFF8F3;
+    margin: 100px;
+    padding: 100px;
+}
+.main2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.worke {
+    background-color:#FFF8F3;
+    margin: 10px;
+    padding: 20px;
+    text-align: justify;
+}
+.main3 {
+    display: flex;
+    
+}
+.jp {
+    background-color:#FFF8F3;
+    
+    padding: 4px;
+}
+.summery{
+    text-align: center;
+}
+.mainedu{
+    justify-content: space-between;
+}
+.edu1 {
+  display: flex;
+  gap: 40px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.Education {
+  flex: 1;
+}
+
+h2 {
+  font-size: 22px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 5px;
+}
+
+.item {
+  margin-bottom: 20px;
+}
+
+.item h3 {
+  font-size: 18px;
+  margin: 5px 0;
+  color: #333;
+}
+
+.item p {
+  font-size: 14px;
+  color: #666;
+  margin: 4px 0;
+}
+
+.btn {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.btn a {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #f4511e;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.btn a:hover {
+  background: #d84315;
+}
+
+.eduexperience{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.connect{
+    background-color: #FFF8F3;
+}
+.contuctus{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    background-color: #FFF8F3;
+}
+
+
+.contactbox {
+  background: #FFF8F3;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px #FFFFFF;
+  width: 350px;
+}
+
+form input,
+form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: #f4511e;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  
+}
+
+button:hover {
+  background: #d84315;
+}
+.meassage{
+ text-align: right;    
+}
+
+.msg{
+    text-align: right;
+}
+  
